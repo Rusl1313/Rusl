@@ -22,6 +22,7 @@ public class zadachi2 {
             throw new IOException();
         }
     }
+
         private static String roman(String a, String b, String c) throws IOException {
         int numbers[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         String letters[] = {"I", "II", "III", "IV", "V", "VI","VII","VIII","IX", "X"};
